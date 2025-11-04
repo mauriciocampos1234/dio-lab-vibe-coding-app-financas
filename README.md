@@ -1,6 +1,6 @@
 # 💸 Criando um App de Organização de Finanças Pessoais com Vibe Coding
 
-Aprenda a **criar soluções com IA** de forma criativa, guiando modelos como o **Copilot** e o **Lovable** com uma comunicação clara, simples e eficaz. O foco é desenvolver um **App de Organização de Finanças Pessoais**, mas, acima de tudo, aprender o **jeito Vibe de programar com IA**.
+Aprenda a **criar soluções com IA** de forma criativa, guiando modelos como o **Copilot** e o **Lovable** com uma comunicação clara, simples e eficaz. O foco é desenvolver o conceito de um **App de Organização de Finanças Pessoais**, mas, acima de tudo, aprender o **jeito Vibe de programar com IA**.
 
 ## ✨ O que é Vibe Coding
 
@@ -8,49 +8,66 @@ Aprenda a **criar soluções com IA** de forma criativa, guiando modelos como o 
 
 > Você mostra a vibe da sua ideia e a IA transforma em solução (ou em um caminho para ela).
 
-## 🎯 Seu Desafio
+## 🎯 Desafio
 
-Usar o conceito de **Vibe Coding** para prototipar um **App de Finanças Pessoais**, capaz de conversar com o usuário e ajudá-lo a gerenciar seus gastos. A proposta é **usar a IA como sua dupla de criação**, não apenas como ferramenta. Você vai testar na prática como **bons prompts** podem transformar ideias em produtos funcionais.
+Problema: Muitas pessoas não conseguem manter um controle financeiro porque os aplicativos exigem muita entrada de dados manual, e a criação de orçamentos é vista como algo tedioso. 
 
-### 1️⃣ Saber o que Pedir é a Chave! Otimize seus Prompts!
+Precisamos de uma solução que permita **controlar as finanças por meio de uma conversa simples**, com **agentes de IA** capazes de criar **planos de economia personalizados e automatizados**. Você deve utilizar as ideias de **Vibe Coding** e **MVP (Produto Mínimo Viável)** para desenvolver o **conceito de um aplicativo** que resolva o problema citado.
 
-Antes de sair pedindo para a IA “criar um app”, é essencial **definir claramente o que você quer**. Para isso, vamos usar uma versão simplificada de um **PRD (Product Requirements Document)**, um tipo de documento que explica *o que o produto faz, para quem e por quê.*
+> [!IMPORTANT]
+> Você **não precisa construir o código**! O foco está em **usar a IA como sua parceira criativa**, transformando boas ideias e prompts em conceitos funcionais que simulam um produto real.
 
-> 💡 Pense no PRD como “o briefing que a IA precisa para entender sua vibe”.
+## 🪄 Etapas do Desafio
+
+### 1. Saber o que Pedir é a Chave! Otimize seus Prompts!
+
+Antes de pedir à IA para “criar um app”, é essencial **definir claramente o que você quer**.  
+Para isso, use uma versão simplificada de um **PRD (Product Requirements Document)** — um documento que explica *o que o produto faz, para quem e por quê.*
 
 **Crie um PRD simples respondendo:**
 1. Qual é o problema que quero resolver?  
 2. Quem vai usar meu app e qual o principal benefício?  
 3. Quais são as 3 a 5 funcionalidades principais?  
-4. O que eu quero que a IA me entregue? (ex.: fluxo de telas, plano de MVP, relatórios, etc.)
+4. O que eu quero que a IA me entregue? (ex.: fluxo de telas, plano de MVP, relatórios etc.)
 
-Depois, **use o Copilot Web** para revisar e melhorar o seu prompt antes de ir ao Lovable. A ideia é **refinar o texto até ficar claro, direto e refletir exatamente a sua vibe.**
+Depois, **use o Copilot Web** para revisar e melhorar o seu prompt antes de ir ao Lovable. A ideia é **refinar o texto até ficar claro, direto e refletir exatamente a sua intenção**.
 
-### 2️⃣ Explorando o Lovable na Prática
+> [!TIP]
+> Pense no PRD/Prompt como “o briefing que a IA precisa para entender sua vibe”. Portanto, quanto mais claro e intencional for o texto, mais próximas do ideal serão as respostas da IA.
+
+### 2. Explorando o Lovable na Prática
 
 Com seu prompt pronto, vá para o **Lovable** e comece a criar!
 
 Como o plano gratuito limita você a **5 interações por dia**, **seja estratégico**:  
 - Cole seu prompt completo e peça o **plano inicial do MVP**;  
-- Depois, refine com perguntas diretas (ex.: “adicione a jornada do usuário” ou “crie um resumo visual das telas”);  
-- Se possível, capture **prints** ou um **vídeo curto** mostrando o processo.
+- Refinar pedindo, por exemplo: “adicione a jornada do usuário” ou “gere um resumo visual das telas”;  
+- Capture **prints** ou um **vídeo curto** mostrando o processo.
 
-> 🤖 Se preferir, você pode fazer tudo com o **Copilot**, o importante é praticar o raciocínio de Vibe Coding.
+Durante essa etapa, você pode:
+1. **Definir o Agente Financeiro:** instruir a IA a se comportar como um consultor financeiro pessoal (tom de voz, objetivos, restrições).  
+2. **Criar o Fluxo de Vibe Coding:** gerar o fluxo de telas conceitual, onde o usuário insere dados conversando (“Gastei 150 reais no supermercado no sábado, desconta da minha meta de viagem”).  
+3. **Gerar o Relatório de MVP:** pedir à IA um resumo com as 5 funcionalidades principais, os recursos necessários e um plano de validação inicial.
 
-### 3️⃣ Entregando o Desafio na DIO
+> [!TIP]
+> Se preferir, você pode fazer tudo com o **Copilot**. O importante é exercitar a habilidade de transformar intenções em instruções claras e testar os limites da IA como parceira criativa.
 
-Finalize seu projeto criando um **repositório no GitHub** (pode ser um **fork** deste). No README do seu repositório, inclua:
+### 3. Entregando o Desafio na DIO
+
+Finalize seu projeto criando um **repositório no GitHub** (pode ser um **fork** deste).  
+No README do seu repositório, inclua:
 
 - Seu **prompt final** (PRD simplificado);  
 - Prints ou pequenos vídeos das interações com a IA;  
 - Um resumo do que o seu **App de Finanças Pessoais** faz;  
 - Uma breve **reflexão sobre o processo**:
-  - O que funcionou bem?
-  - O que você mudaria no prompt?
+  - O que funcionou bem?  
+  - O que você mudaria no prompt?  
   - O que aprendeu sobre conversar com IAs?
 
-> 🤘 Depois, envie o link do seu repositório na plataforma da DIO!
+> [!TIP]
+> Publique seu repositório e compartilhe o link na plataforma da DIO! Sua entrega é a prova de que você domina o raciocínio de Vibe Coding, mesmo sem escrever uma única linha de código.
 
----
+## 💬 Conclusão
 
-💬 **Dica Final:**  Vibe Coding é sobre **clareza, reflexão e criatividade**, não sobre perfeição técnica. Você está aprendendo a **transformar ideias em produtos em potencial com IA**, o código é algo que se tornará cada vez mais familiar com o passar do tempo, não se preocupe!  
+Vibe Coding é sobre clareza, curiosidade e criatividade, não sobre perfeição técnica. O verdadeiro objetivo aqui é aprender a pensar junto com a IA, transformando ideias em conceitos reais e enxergando a tecnologia como uma extensão do seu raciocínio criativo. Cada interação é um experimento, quanto mais clara for sua intenção, mais surpreendente será o resultado.

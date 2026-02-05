@@ -25,11 +25,11 @@ Antes de pedir para a IA "criar um app", é importante definir com clareza o que
 
 Um bom PRD deve descrever o problema, quem será beneficiado, as principais funcionalidades e o que você espera que a IA entregue. Use o modelo abaixo como ponto de partida e adapte conforme o seu estilo:
 
-# Contexto
+# Prompt
 Crie um App de Finanças Pessoais com Base no Seguinte PRD (Product Requirements Document):
 
 PRD – Assistente Financeiro Conversacional
-### 1. Prompt
+### 1. 
 Aplicativo de assistente financeiro conversacional, que permite ao usuário registrar e acompanhar suas finanças por meio de diálogo em linguagem natural.
 Objetivo: tornar o controle financeiro simples, intuitivo e acessível, sem formulários complexos ou planilhas.
 

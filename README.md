@@ -82,11 +82,11 @@ Benefício: aumenta a satisfação geral, reduz barreiras e amplia o alcance do 
 ```
 ### 2. Explorando o Lovable na Prática
 
-![Diagrama da Arquitetura](images/lovable01.png)
-![Diagrama da Arquitetura](images/lovable02.png)
-![Diagrama da Arquitetura](images/lovable03.png)
-![Diagrama da Arquitetura](images/lovable04.png)
-![Diagrama da Arquitetura](images/lovable05.png)
+![Diagrama da Arquitetura](VibeCoding/lovable01.png)
+![Diagrama da Arquitetura](VibeCoding/lovable02.png)
+![Diagrama da Arquitetura](VibeCoding/lovable03.png)
+![Diagrama da Arquitetura](VibeCoding/lovable04.png)
+![Diagrama da Arquitetura](VibeCoding/lovable05.png)
 
 ## 💬 Conclusão
 

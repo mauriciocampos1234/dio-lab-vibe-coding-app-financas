@@ -29,7 +29,7 @@ Um bom PRD deve descrever o problema, quem será beneficiado, as principais func
 Crie um App de Finanças Pessoais com Base no Seguinte PRD (Product Requirements Document):
 
 PRD – Assistente Financeiro Conversacional
-### 1. 
+### 1. Contexto
 Aplicativo de assistente financeiro conversacional, que permite ao usuário registrar e acompanhar suas finanças por meio de diálogo em linguagem natural.
 Objetivo: tornar o controle financeiro simples, intuitivo e acessível, sem formulários complexos ou planilhas.
 
